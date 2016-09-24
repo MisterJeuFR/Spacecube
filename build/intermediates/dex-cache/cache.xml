@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\MisterJeu\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="G:\Appli Spacecube\Spacecube2\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_64ac092c69a86edf1e437cb0d263ab18eb5458ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\MisterJeu\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="G:\Appli Spacecube\Spacecube2\app\build\intermediates\pre-dexed\debug\retrofit-2.0.2_5843c014c8aa5670bf29fe7c81f5390df550ba14.jar" />
+    </item>
+    <item
+        jar="G:\Appli Spacecube\Spacecube2\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="79f10814ccc3cf45cd5c1d566a3f6b5bcf7c1562">
+        <dex dex="G:\Appli Spacecube\Spacecube2\app\build\intermediates\pre-dexed\debug\com.twitter.sdk.android-twitter-2.0.0_ae1a8629d2fec9bfe7f0f7fe71ba82b5d1c1b444.jar" />
+    </item>
+    <item
+        jar="G:\Appli Spacecube\Spacecube2\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="933ee15f1696c3583a97e6f6d6662a97f0d2019d">
+        <dex dex="G:\Appli Spacecube\Spacecube2\app\build\intermediates\pre-dexed\debug\com.twitter.sdk.android-twitter-core-2.0.0_d0e1336584a20c50135eb126438109da347ddb56.jar" />
+    </item>
+    <item
+        jar="C:\Users\MisterJeu\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="G:\Appli Spacecube\Spacecube2\app\build\intermediates\pre-dexed\debug\gson-2.6.1_84ca25b16923249f63d1f9a25951268b58c48e67.jar" />
+    </item>
+    <item
+        jar="G:\Appli Spacecube\Spacecube2\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.13\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="23e3acde10f4cf52778f8dc88107fb96459f2392">
+        <dex dex="G:\Appli Spacecube\Spacecube2\app\build\intermediates\pre-dexed\debug\io.fabric.sdk.android-fabric-1.3.13_b103d58b1eb9b2879763068290c8249ead691342.jar" />
+    </item>
+    <item
+        jar="C:\Users\MisterJeu\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="G:\Appli Spacecube\Spacecube2\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_d9024f781047897c2918a904e0c43e627fd07c82.jar" />
+    </item>
+    <item
+        jar="C:\Users\MisterJeu\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="G:\Appli Spacecube\Spacecube2\app\build\intermediates\pre-dexed\debug\twitter-text-1.13.0_cad133d6f89e14fdbbced2cee5534a9ea9473ac5.jar" />
+    </item>
+    <item
+        jar="C:\Users\MisterJeu\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="G:\Appli Spacecube\Spacecube2\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_75c3349235985982b9fc19cb360ff4c1d10669af.jar" />
+    </item>
+    <item
+        jar="C:\Users\MisterJeu\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="G:\Appli Spacecube\Spacecube2\app\build\intermediates\pre-dexed\debug\okio-1.6.0_7d20026ca05b25fa901042d2b32195d76bc966f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\MisterJeu\.gradle\caches\modules-2\files-2.1\org.twitter4j\twitter4j-core\4.0.3\673bf484312c3407bb3dd24bfb8c804fa4d99d0b\twitter4j-core-4.0.3.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="673bf484312c3407bb3dd24bfb8c804fa4d99d0b">
+        <dex dex="G:\Appli Spacecube\Spacecube2\app\build\intermediates\pre-dexed\debug\twitter4j-core-4.0.3_b3cf7dd14de7539d3007302b4bfcfde7803469f7.jar" />
+    </item>
+    <item
+        jar="G:\Appli Spacecube\Spacecube2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="85514fc73e10f98eb4d9d9b587c2f9c479ca0af5">
+        <dex dex="G:\Appli Spacecube\Spacecube2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d6abc611fdad6ae119c1a4ed1c5973303e6096d5.jar" />
+    </item>
+    <item
+        jar="G:\Appli Spacecube\Spacecube2\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6b57821de6e2cbd036be860fea35812a413a3a9d">
+        <dex dex="G:\Appli Spacecube\Spacecube2\app\build\intermediates\pre-dexed\debug\com.twitter.sdk.android-tweet-composer-2.0.0_540498a67662ce3d7fcd51a22ead12e8068bc0fd.jar" />
+    </item>
+    <item
+        jar="G:\Appli Spacecube\Spacecube2\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b0424f06fdb2897efee7b4cf999c60e0b1bbfe50">
+        <dex dex="G:\Appli Spacecube\Spacecube2\app\build\intermediates\pre-dexed\debug\com.twitter.sdk.android-tweet-ui-2.0.0_0a939e3c77d19738804dfc20e8b65dee1e4a34e8.jar" />
+    </item>
+
+</items>
